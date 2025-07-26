@@ -66,12 +66,15 @@ The dataset used is from **Our World in Data**:
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
+<img width="1920" height="966" alt="Screenshot 2025-07-26 221658" src="https://github.com/user-attachments/assets/3482bf2c-d189-4651-af99-f157988edf13" />
 
-> You can add screenshots of your dashboard here inside an `assets/` folder and update image links like below:
+<img width="1913" height="926" alt="Screenshot 2025-07-26 221716" src="https://github.com/user-attachments/assets/0436be24-22bb-4df9-a46c-8c81ccd400df" />
+
+<img width="1920" height="964" alt="Screenshot 2025-07-26 221735" src="https://github.com/user-attachments/assets/e6b1a8bb-ea55-4391-ae3c-940cdb57ecaf" />
 
 ```markdown
-![Dashboard Screenshot](assets/dashboard.png)
+
 ```
 
 ---
