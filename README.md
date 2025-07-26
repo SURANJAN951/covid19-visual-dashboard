@@ -19,11 +19,9 @@ An interactive and visually appealing dashboard built with **Python** and **Stre
 
 ```
 covid19-visual-dashboard/
-├── assets/                # (Optional) for preview images
 ├── covid_data.csv         # Pre-downloaded Covid dataset
 ├── app.py                 # Main Streamlit application
 ├── README.md              # Project overview
-└── requirements.txt       # Python dependencies
 ```
 
 ---
