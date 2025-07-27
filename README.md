@@ -34,12 +34,7 @@ git clone https://github.com/SURANJAN951/covid19-visual-dashboard.git
 cd covid19-visual-dashboard
 ```
 
-### 📦 Step 2: Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 🚀 Step 3: Run the app
+### 🚀 Step 2: Run the app
 ```bash
 streamlit run app.py
 ```
